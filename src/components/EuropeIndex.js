@@ -1,4 +1,5 @@
 import React from "react";
+import HTMLComment from "react-html-comment";
 
 function EuropeIndex() {
   return (
