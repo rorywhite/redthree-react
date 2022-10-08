@@ -9,7 +9,7 @@ function BankingIndex() {
         <table>
           <tr>
             <td>
-              <B>Online Reconciliation Summary</B>
+              <b>Online Reconciliation Summary</b>
               <input TYPE="SUBMIT" NAME="btnQuickPost" VALUE="Quick Post" />
               <input TYPE="HIDDEN" NAME="quickPost" VALUE="1" />
             </td>
@@ -79,7 +79,7 @@ function BankingIndex() {
         <tr>
           <td align="center">
             {" "}
-            <a href="/banking/reconcileAccount?account_id=218">BUStrUSTASB</a>
+            <a href="/banking/reconcileAccount?account_id=218">BUSTRUSTASB</a>
           </td>
           <td></td>
           <td align="right">6177.23</td>
